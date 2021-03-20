@@ -1,3 +1,2 @@
-# ZJU ASM homework
-
-代码写的比较烂
+# ASM
+8086/8088汇编
